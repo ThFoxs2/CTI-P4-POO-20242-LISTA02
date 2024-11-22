@@ -1,8 +1,8 @@
 # CTI-P4-POO-20242-LISTA02
-Dedicado as atividades de POO do capítulo 4, da lista 2
+Dedicado as atividades de POO do capítulo 4 e 5, da lista 2
 ---
 
-# CTI-P4-POO-20242-LISTA01
+# CTI-P4-POO-20242-LISTA02
 
 ## Atividades de Programação Orientada a Objetos (POO) - Java
 
