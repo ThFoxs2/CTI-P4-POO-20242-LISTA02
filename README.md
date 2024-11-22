@@ -178,10 +178,9 @@ Para executar os exercícios, siga os seguintes passos:
 20. [**EXE20 - Salário de Professores**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERC%C3%8DCIOS-RESOLVIDOS/EXE20/src/br/edu/principal/Principal.java)  
     Calcula o salário bruto e líquido de professores com base em suas horas de aula e descontos baseados no sexo.
 
-21. [**EXE21 - Estatísticas de Números**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERC%C3%8DCIOS-RESOLVIDOS/EXE21/src/br/
-
-edu/principal/Principal.java)  
+21. [**EXE21 - Estatísticas de Números**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERC%C3%8DCIOS-RESOLVIDOS/EXE21/src/br/edu/principal/Principal.java)  
     Calcula diversas estatísticas (soma, média, maior, menor, entre outros) de um conjunto de números fornecidos.
+
 
 22. [**EXE22 - Levantamento de Candidatos**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERC%C3%8DCIOS-RESOLVIDOS/EXE22/src/br/edu/principal/Principal.java)  
     Realiza estatísticas sobre candidatos a vagas de emprego com base na idade, sexo e experiência no serviço.
